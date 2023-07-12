@@ -1,4 +1,4 @@
-python-yt-downloader
+# python-yt-downloader
 
 Simple Youtube downloader app in Python.
 

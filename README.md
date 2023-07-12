@@ -1,3 +1,5 @@
+python-yt-downloader
+
 Simple Youtube downloader app in Python.
 
 Simply write in your CLI python3 yt-downloader.py "youtube video url".

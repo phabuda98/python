@@ -10,4 +10,4 @@ print("View:", yt.views)
 yd = yt.streams.get_highest_resolution()
 
 #Specify the download location on your pc
-yd.download('D:\Movies\Youtube-videos')
+yd.download('Enter location here')

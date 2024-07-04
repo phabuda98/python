@@ -8,4 +8,10 @@ Simply write in your CLI
 
 In Pytube version 15.0.0, you just need to remove ; in line 287 of cipher.py file.
 
-Change r'var {nfunc}\s*=\s*(\[.+?\];)'.format( to r'var {nfunc}\s*=\s*(\[.+?\])'.format(
+## Change 
+    
+    r'var {nfunc}\s*=\s*(\[.+?\];)'.format( 
+
+to
+    
+    r'var {nfunc}\s*=\s*(\[.+?\])'.format(

@@ -1,8 +1,10 @@
-# python-yt-downloader
+# Python YouTube downloader
 
-Simple Youtube downloader app in Python.
+## Simple YouTube downloader app in Python
 
-Simply write in your CLI python3 yt-downloader.py "youtube video url".
+Simply write in your CLI 
+
+    python3 yt-downloader.py "youtube video url".
 
 In Pytube version 15.0.0, you just need to remove ; in line 287 of cipher.py file.
 
